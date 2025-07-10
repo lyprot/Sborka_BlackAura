@@ -1,5 +1,5 @@
 {
     "status": 1,
-    "type": "warning",  // "error", "warning", "info"
+    "type": "warning",
     "message": "Помните о возможности ручной настройки шейдеров."
 }
